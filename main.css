@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.text_size{
+    font-size: 5vw;
+    font-weight: 100px;
+}
+.home_title-color{
+    color: #4070f4;
+}
